@@ -2,3 +2,6 @@
 </script>
 Enter Name : <br>
 <input type="text"><br>
+Enter Password : <br>
+<input type="password"><br>
+hello :
